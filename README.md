@@ -1,6 +1,10 @@
 # Calculadora
 
 
+![image](https://user-images.githubusercontent.com/66035697/156565761-4f4912a6-b745-4147-a636-aeefdcc587b5.png)
+
+
+
 <h1 align="center">Hi 👋, I'm Gleysson Flávio Gomes de Souza</h1>
 <h3 align="center">A passionate frontend developer from Brasil.</h3>
 
